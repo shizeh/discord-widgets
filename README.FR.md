@@ -1,6 +1,6 @@
 # Guide Discord Widget pour Débutants
 
-🇫🇷 **You are in the French version** | 🇬🇧 [Click here to access to README English version.md](https://github.com/shizeh/discord-widgets/blob/main/README.ENG.md)
+🇫🇷 **You are in the French version** | 🇬🇧 [Click here to access to README English version.md](https://github.com/shizeh/discord-widgets/blob/main/README.md)
 
 Ce guide explique comment j'ai créé un widget Discord personnalisé à partir de zéro.
 
