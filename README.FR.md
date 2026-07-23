@@ -14,7 +14,7 @@ Ce guide explique comment j'ai créé un widget Discord personnalisé à partir 
 3. Cliquez sur **New Application**.
 4. Donnez à votre application un nom correspondant à votre widget.
 
-Exemples :
+Exemples : 
 
 * `Stats`
 * `Steam`
