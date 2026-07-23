@@ -14,7 +14,7 @@ This guide explains how I created a custom Discord Widget from scratch.
 3. Click **New Application**.
 4. Give your application a name that matches your widget.
 
-Examples:
+Examples: 
 
 * `Stats`
 * `Steam`
